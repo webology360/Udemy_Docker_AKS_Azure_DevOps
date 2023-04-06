@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/Shopoing.Client/bin/Debug/netcoreapp3.1
+/Shopoing.Client/obj
